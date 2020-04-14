@@ -1,2 +1,2 @@
-# narayanan_krishnamurthy.githhub.io
+# narayanan_krishnamurthy.github.io
 Personal Portfolio
